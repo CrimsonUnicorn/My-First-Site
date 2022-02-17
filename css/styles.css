@@ -1,0 +1,79 @@
+.top{
+  background-color:#E4F9F5 ;
+
+}
+.middle{
+  background-color:#30E3CA;
+  margin: 0 auto;
+  padding-top: 10px;
+}
+.bottom{
+  background-color: #40514E;
+  font-size: 40px;
+  padding-top: 10px;
+  text-align: left;
+}
+.skill{
+  padding-bottom: 50px;
+}
+img{
+  width: 200px;
+}
+h1{
+  margin-top: 0;
+  font-family: 'Dancing Script', cursive;
+}
+h2{
+  font-family: 'Shizuru', cursive;
+  color: blue;
+}
+body{
+  margin: 0;
+  text-align: center;
+}
+.oops{
+   font-size: 50px;
+}
+hr{
+  border-color:#789395 ;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 20px;
+  margin:0 auto 0 auto;
+  width: 60%;
+}
+img{
+  padding-right: 100px;
+  padding-left: 100px;
+  border-left:100px;
+}
+.tag{
+    margin: auto auto 10 auto;
+    font-size: 30px;
+}
+.top-cloud{
+  position: relative;
+  left: 15%;
+}
+.bottom-cloud{
+  display: block;
+  position: relative;
+  left: 15%;
+}
+.main{
+  font-size: 100px;
+  margin-bottom: 0;
+}
+.mountain{
+  padding-top: 20px;
+  width: 350px;
+  }
+  .C{
+    margin-bottom: 0;
+  }
+.footer{
+  display: inline;
+}
+.footer-img{
+  width: 100px
+}
